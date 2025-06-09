@@ -1,0 +1,5 @@
+.section-arrow{
+    border-style: solid;
+    border-color: var(--color-bg-1) #fff #fff;
+    border-width: 30px 50vw 0;
+}
